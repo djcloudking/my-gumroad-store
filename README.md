@@ -1,7 +1,7 @@
 # Git-GitHub-Demo
 This is a Repository for showing the fundamental concepts like repository management, version control, branching using GitHub. 
 
-<! -- 
+<!-- 
 Free DevOps Projects to build Your portfolio
 
 
@@ -59,8 +59,5 @@ container with shared volume to ensure data persistence.
 
 • Deployed Web Server in Auto Scaling Group with Load Balancer via Terraform:
 - Configured Amazon Linux AMI and defined subnets to ensure high availability using Terraform; implemented EC2 Auto Scaling Group and Application Load Balancer (ALB) for dynamic traffic management and resource scaling; and used S3 for Terraform state file storage and secure, efficient infrastructure management.
-
-
-
 
 -->
