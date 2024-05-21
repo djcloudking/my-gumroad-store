@@ -1,5 +1,5 @@
-# Git-GitHub-Demo
-This is a Repository for showing the fundamental concepts like repository management, version control, branching using GitHub. 
+# DevOps Skills Challenge
+This is a Repository for showing the fundamental concepts of DevOps using the most popular tools. 
 
 <!-- 
 Free DevOps Projects to build Your portfolio
